@@ -60,3 +60,4 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 
 
 # RESULT
+Thus the code was executed successfully.
